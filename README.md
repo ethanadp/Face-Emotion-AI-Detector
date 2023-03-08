@@ -9,7 +9,7 @@ This project aims to develop two convolutional neural network (CNN) models to an
 
 ## **Getting Started**
 To run this project, follow these steps:
-1. Download the data by running the DownloadData.py file. The data is stored on Google Cloud because the file sizes are too large.
+1. Download the data by clicking this [link](https://drive.google.com/drive/folders/1eiAuUMKGoXhSUQx8WjQX4zoO3KOX7RcE?usp=sharing), it will take you to the google drive folder where the files are stored for this project. The data is stored on Google Cloud because the file sizes are too large.
 2. Run the Emotion_Detector_AI.ipynb notebook to execute the algorithms. Make sure you have the following dependencies installed: Keras, TensorFlow, Seaborn, Pandas, NumPy, cv2, PIL, and MatPlotLib.
 
 ## **Datasets**
